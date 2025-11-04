@@ -1,2 +1,5 @@
 fastapi
 uvicorn
+
+# Security / hashing helper
+passlib
